@@ -60,7 +60,7 @@
     "tslint-microsoft-contrib": "^4.0.0",
     "tslint-react": "^2.3.0",
     "webpack": "beta",
-    "webpack-bundle-analyzer": "^2.2.1",
+    "webpack-bundle-analyzer": "^2.2.2",
     "webpack-stream": "^3.2.0"
   },
   "dependencies": {
